@@ -1,0 +1,26 @@
+.header{
+    font-family: 'Times New Roman', Times, serif;
+    padding: 2em;
+    text-align: center;
+    
+}
+.pra1{
+    height: 400px;
+    width: 500px;
+}
+.pra2{
+    font-size: 25px;
+     text-align: justify;
+     padding-top: 30px;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    
+}
+.video{
+    height: 600px;
+    width: 90%;
+}
+.float{
+    padding-left: 800px;
+}
